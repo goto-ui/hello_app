@@ -169,7 +169,7 @@ DEPENDENCIES
   listen (= 3.1.5)
   pg (= 0.20.0)
   puma
-  rails (= 5.1.6)
+  rails
   sass-rails (= 5.0.6)
   spring (= 2.0.2)
   spring-watcher-listen (= 2.0.1)
